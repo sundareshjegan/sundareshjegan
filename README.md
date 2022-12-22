@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://thepowerpointblog.com/wp-content/uploads/2021/06/Handwave.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -9,10 +9,10 @@
 - 🔭I am currently pursuing B.Tech - Information Technology at Kamaraj College of Enginnering and Technology  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓Want to know everything about me [click here🤞](http://sundareshwaran.000webhostapp.com/)  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Love to code...  
   
 
 <br/>  
@@ -43,7 +43,6 @@
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -98,7 +97,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
@@ -110,13 +109,10 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/sundareshjegan" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
