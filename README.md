@@ -74,7 +74,7 @@
 <a href="https://github.com/sundareshjegan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/sundareshwaran-jeganathan-928a941bb" target="_blank">
+<a href="https://www.linkedin.com/in/sundareshwaran-jeganathan-928a941bb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/sundaresh_jegan" target="_blank">
